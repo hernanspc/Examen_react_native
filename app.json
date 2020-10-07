@@ -1,0 +1,12 @@
+{
+  "name": "trabajo3",
+  "displayName": "trabajo3",
+  "expo": {
+    "name": "trabajo3",
+    "slug": "trabajo3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
